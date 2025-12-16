@@ -1,0 +1,5 @@
+2025-05-07 11:00:00	INFO	UserAuth	User 'mark.johnson' logged in.
+2025-05-07 11:01:30	ERROR	Inventory	Unable to update stock for item #4921.
+2025-05-07 11:02:15	WARNING	Payment	Slow response from payment provider.
+2025-05-07 11:03:40	INFO	GeoIP	IP geolocation query succeeded.
+2025-05-07 11:05:00	ERROR	Payment	Card declined for user 'jane.doe'.
